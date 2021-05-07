@@ -5,6 +5,7 @@
 - Temple University, Yu Wang
 - UCSB, Xiangyu Wang
 - IIT
+- University of Arkansas, Xintao Wu
 
 ## Japan
 - University of Tokyo, Yang Cao
