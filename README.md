@@ -18,3 +18,7 @@
 
 ## Hong Kong
 - PolyU, Haibo Hu
+
+
+## European
+- L3S Research Center, Germany
