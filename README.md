@@ -7,6 +7,7 @@
 - IIT
 - University of Arkansas, Xintao Wu
 - University of Temple, Yue Wang
+- Lehigh University, Linchao Sun
 
 ## Japan
 - University of Tokyo, Yang Cao
