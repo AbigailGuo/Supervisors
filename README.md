@@ -6,7 +6,7 @@
 - UCSB, Xiangyu Wang
 - IIT
 - University of Arkansas, Xintao Wu
-- University of Temple, Yue Wang
+- University of Temple, Yu Wang
 - Lehigh University, Linchao Sun
 
 ## Japan
