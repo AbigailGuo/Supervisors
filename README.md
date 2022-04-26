@@ -17,7 +17,7 @@
 - UTS, Tianqing Zhu
 
 
-## Hong Kong
+## Hong Kong SAR
 - PolyU, Haibo Hu
 
 
