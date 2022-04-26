@@ -21,5 +21,5 @@
 - PolyU, Haibo Hu
 
 
-## European
+## Europe
 - L3S Research Center, Germany
